@@ -17,7 +17,7 @@ int main(int argc, char* argv[])
     printf("  2. Client\n");
     printf("输入选择 (1 或 2): ");
     
-    int choice;
+    int choice;  
     std::cin >> choice;
     
     if (choice == 1)
